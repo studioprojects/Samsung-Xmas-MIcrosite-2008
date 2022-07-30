@@ -1,0 +1,13 @@
+p {
+	font-family: "Arial";
+	font-size: 11px;
+	font-weight: bold;
+}
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	color: #006699;
+	text-decoration: underline;
+}

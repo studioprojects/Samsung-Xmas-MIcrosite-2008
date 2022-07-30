@@ -1,0 +1,68 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+	text-align: center;
+}
+#appliances {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#av {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#computer {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#landing {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#mobiles {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#promotions {
+	z-index: 10000;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}

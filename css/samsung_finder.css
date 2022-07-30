@@ -1,0 +1,47 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+#content {
+	z-index: 1; 
+	width: 100%; 
+	position: absolute; 
+		height: 100%;
+}
+
+#flash_area {
+	z-index: 10000; 
+	width: 100%; 
+	position: absolute; 
+	bottom: 0px; 
+	height: 350px;
+}
+
+#footer {
+		z-index: 10; 
+	background-color: #0066CC;
+	position: absolute;
+	bottom: 0px;
+	height: 20px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+.alt_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+html, body, div, iframe { 
+margin:0; padding:0; height:100%; 
+}
+
+iframe { 
+display:block; width:100%; border:none; height: inherit
+}

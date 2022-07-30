@@ -1,0 +1,19 @@
+p {
+	font-family: "Arial";
+	color: #FFFFFF;
+	font-size: 9px;
+	font-weight: normal;
+}
+a:link {
+	color: #666666;
+	text-decoration: underline;
+}
+a:hover {
+	color: #006699;
+	text-decoration: none;
+}
+.alt_text {
+	font-family: "Arial";
+	font-size: 9px;
+	color: #006699;
+}
